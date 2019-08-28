@@ -1,0 +1,13 @@
+
+*.classpath
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+target/
+
+*.project
+*.settings/
